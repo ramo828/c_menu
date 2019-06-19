@@ -12,7 +12,7 @@ printf("%d >Web attack\n",select);
 else if(select==2)
 printf("%d >Wirelless Attack\n",select);
 else if(select==3)
-printf("%d > Bluetooth Attack\n",select);
+printf("%d > Bluetooth Attack",select);
 else if(select == 0)
 printf("%d > Cixis\n",select);
 else
